@@ -44,6 +44,7 @@ footer {
   scale: 0.75;
 }
 
+/* Media query para dispositivos grandes */
 @media only screen and (max-width: 768px) {
   header {
     padding: 10px;
@@ -54,6 +55,7 @@ footer {
   }
 }
 
+/* Media query para dispositivos pequeños */
 @media only screen and (max-width: 480px) {
   section img {
     max-width: 100%;
